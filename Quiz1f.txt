@@ -1,0 +1,11 @@
+QUIZ 1F
+GROUP 1 - RASPBERRY PI 3 MODEL B
+
+> Why is it working?
+	
+	-The raspberry pi is already working because of the new operating system that has been inistalled in the microcomputer.
+	-The external peripherals connected to the microcomputer were all performing correctly in a way that those peripherals meet the specified value needed for the raspberry pi to work properly.
+	-If the LED in the microcomputer blinks with a color green and with a steady red LED, it means that the power supply were working right and the operating system installed were done and good.
+
+*these answers were all according to our classmate also our groupmate who already did his research the night before.
+SITE: elinux.org/R-Pi_Troubleshooting

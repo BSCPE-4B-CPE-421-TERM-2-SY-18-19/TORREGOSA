@@ -1,0 +1,16 @@
+QUIZ 2
+
+MY OBSERVATIONS DURING THE TROUBLESHOOTING OF ASUS PC
+
+	-the cables and thw wires were old enough to break anytime.
+	-the CPU fan is working and is functional but we observed that whenever the CPU fan stops spinning, the power supply fan also stops spinning.
+	-the system unit is dusty causing the system to not work properly.
+	-the fuse of the power supply blown up.
+	-some connections in the system unit were not properly connected and they are not in the right place.
+	-we observed that we cant check the whole motherboard beacause the power supply is not working properly already.
+
+SOLUTIONS:
+	
+	-we recommend for a new fuse replacement
+	-we recommend to connect the power supply cables at the right place
+	-we recommend to clean the system unit regularly to prevent circuit malfunctions.
